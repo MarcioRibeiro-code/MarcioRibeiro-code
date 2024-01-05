@@ -12,7 +12,7 @@
 ```javascript
 const Marcio = {
   pronouns: "he",
-  code: [Java,c]
+  code: [Java,C,C#,.dotnet Core, Node JS, TypeScript, JavaScript]
 }
 ```
 
